@@ -2,7 +2,7 @@
 {
     'name': 'Product Additional Price',
     'version': '1.0',
-    'category': 'Point of Sale',
+    'category': 'Product',
     "license": "OPL-1",
     'description': """
         Allow you to input additional sale price into the variant
