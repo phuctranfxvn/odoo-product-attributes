@@ -7,7 +7,7 @@
     'description': """
         Allow you to input additional sale price into the variant
     """,
-    'author': 'Felix',
+    'author': 'Felix VNM',
     'depends': [
         'base',
         'product',
